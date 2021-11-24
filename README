@@ -1,0 +1,5 @@
+---RUS---
+Перед запуском программы добавить папку image в src/main/webapp, так как GitHub при импортировании её просто удаляет (потому что она изначально пустая).
+---------
+---ENG---
+Before running the program, add a folder called image to src / main / webapp, as GitHub just deletes it on import (because it is initially empty).
